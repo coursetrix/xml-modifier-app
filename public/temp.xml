@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac52f</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>In your words, defin</text>
+    </name>
+    <questiontext format="html">
+      <text>In your words, define research. What are the benefits of developing good research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Answers will vary; however, student should explain that we do research whenever we gather information to answer a question that solves a problem. There are various benefits of developing good research. Students should discuss that good research helps add to a community of research, and can eventually help change various aspects of the world.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Answers will vary; however, student should explain that we do research whenever we gather information to answer a question that solves a problem. There are various benefits of developing good research. Students should discuss that good research helps add to a community of research, and can eventually help change various aspects of the world.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What are the three p</text>
+    </name>
+    <questiontext format="html">
+      <text>What are the three purposes for writing research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>First, we write to remember. Experienced researchers first write just to remember what they&amp;#8217;ve read. Second, we write to understand. When researchers write, they get an opportunity to see larger patterns in what they read. Third, we write to test our thinking. When researchers get their thoughts out of their head and onto paper, they we will see what they really can think.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>First, we write to remember. Experienced researchers first write just to remember what they&amp;#8217;ve read. Second, we write to understand. When researchers write, they get an opportunity to see larger patterns in what they read. Third, we write to test our thinking. When researchers get their thoughts out of their head and onto paper, they we will see what they really can think.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is a rhetorical</text>
+    </name>
+    <questiontext format="html">
+      <text>What is a rhetorical community of shared values? Provide an example.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>A rhetorical community of shared values implies you are meeting the needs and expectations of informed and careful readers. It is not useful to only write research from one&amp;#8217;s own perspective. When writing to meet a reader&amp;#8217;s expectations, a writer can find a flaw or blunder in their thinking or even discover a new insight that escaped them in a first draft written for themselves.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>A rhetorical community of shared values implies you are meeting the needs and expectations of informed and careful readers. It is not useful to only write research from one&amp;#8217;s own perspective. When writing to meet a reader&amp;#8217;s expectations, a writer can find a flaw or blunder in their thinking or even discover a new insight that escaped them in a first draft written for themselves.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac531</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the correlat</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the correlation between questions and problems in research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Some questions raise problems, others do not. A question raises a problem if not answering it keeps us from knowing something more important than its answer. A question does not raise a problem if not answering it has no apparent consequences.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Some questions raise problems, others do not. A question raises a problem if not answering it keeps us from knowing something more important than its answer. A question does not raise a problem if not answering it has no apparent consequences.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Why is it pertinent</text>
+    </name>
+    <questiontext format="html">
+      <text>Why is it pertinent to keep your readers in mind when developing research? What is the writer&amp;#8217;s role in research? What is the reader&amp;#8217;s role in research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Research counts for little if few read it. In order to have readers, writers need to keep their readers in mind. If a writer does not create an atmosphere where readers will want to respond, the research will eventually become stagnant, and will not provide the writer an opportunity to engage and add to his or her research community. The writer has three roles in research: finding new and interesting information, finding a solution to an important practical problem, and finding an answer to an important question. The reader has three roles in research:  to be entertained, to find a solution to their practical problem, and help the reader understand something important.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Research counts for little if few read it. In order to have readers, writers need to keep their readers in mind. If a writer does not create an atmosphere where readers will want to respond, the research will eventually become stagnant, and will not provide the writer an opportunity to engage and add to his or her research community. The writer has three roles in research: finding new and interesting information, finding a solution to an important practical problem, and finding an answer to an important question. The reader has three roles in research:  to be entertained, to find a solution to their practical problem, and help the reader understand something important.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>How do you find a to</text>
+    </name>
+    <questiontext format="html">
+      <text>How do you find a topic for an advanced research report?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Find what interests others researchers</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Skim the most recent articles in your library&amp;#8217;s online database</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Investigate the resources that your library is particularly rich in</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All of the above</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac533</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How do you find a to 2</text>
+    </name>
+    <questiontext format="html">
+      <text>How do you find a topic in a general writing course?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Start by listing as many interests as you can that you&amp;#8217;d like to explore. Once you have a list of topics, choose the one or two that interest you most. Then do the following: 1) in the library look up your topic in a general bibliography such as the Reader&amp;#8217;s Guide to Periodical Literature and skim the subheadings, 2) on the internet, Google your topic, but don&amp;#8217;t surf indiscriminately, and 3) find ideas on blogs, which discuss almost every contentious issue, usually ones too big for a research paper.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Start by listing as many interests as you can that you&amp;#8217;d like to explore. Once you have a list of topics, choose the one or two that interest you most. Then do the following: 1) in the library look up your topic in a general bibliography such as the Reader&amp;#8217;s Guide to Periodical Literature and skim the subheadings, 2) on the internet, Google your topic, but don&amp;#8217;t surf indiscriminately, and 3) find ideas on blogs, which discuss almost every contentious issue, usually ones too big for a research paper.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>If you were assigned</text>
+    </name>
+    <questiontext format="html">
+      <text>If you were assigned a research report, how would you plan your project?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Answers will vary; however, student should include 1) find a topic specific enough to let you master reasonable amount of information it in the time you have, 2) question that topic until you find questions that catch your interest, 3) determine the kind of evidence your readers will expect you to offer in support of your answer, and 4) determine whether you can find the kind of data you seek.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Answers will vary; however, student should include 1) find a topic specific enough to let you master reasonable amount of information it in the time you have, 2) question that topic until you find questions that catch your interest, 3) determine the kind of evidence your readers will expect you to offer in support of your answer, and 4) determine whether you can find the kind of data you seek.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is meant by wri</text>
+    </name>
+    <questiontext format="html">
+      <text>What is meant by writing is thinking?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Writing a research report is, thinking with and for your readers. When you write for others, you disentangle your ideas from your memories and wishes, so that you and others can explore, expand, combine, and understand them more fully.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Writing a research report is, thinking with and for your readers. When you write for others, you disentangle your ideas from your memories and wishes, so that you and others can explore, expand, combine, and understand them more fully.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac535</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the common s</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the common structure of practical and conceptual problems within research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Practical problems and conceptual problems have the same two-part structure. 1) a situation or condition 2) an undesirable consequences caused by that condition; costs that you (or, better, your readers) don&amp;#8217;t want to pay.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Practical problems and conceptual problems have the same two-part structure. 1) a situation or condition 2) an undesirable consequences caused by that condition; costs that you (or, better, your readers) don&amp;#8217;t want to pay.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the differen</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the difference between a research problem and a practical problem?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>A research problem addresses what should we think, and a practical problem addresses what should we do.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>A research problem addresses what should we think, and a practical problem addresses what should we do.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the three-st</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the three-step research formula, and why it necessary to integrate this model at all times when developing research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>The three-step formula requires the writer to recognize a topic, address a question about the topic, and demonstrate the significance of it all. These steps describe not only the development of your project, but your own as a researcher. When you move from step1 to step 2, you are no longer a mere data collector but a researcher interested in understanding something better. When you move from step 2 to step 3, you focus on why that understanding is significant. The significance might at first be just for yourself but you join a community of researchers when you state that significance from your readers&amp;#8217; point of view. In so doing, you create a stronger relationship with readers because you promise something in return for their interest in your report&amp;#8212;a deeper understanding of something that matters to them. At that point, you have posed a problem that they recognize needs a solution.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>The three-step formula requires the writer to recognize a topic, address a question about the topic, and demonstrate the significance of it all. These steps describe not only the development of your project, but your own as a researcher. When you move from step1 to step 2, you are no longer a mere data collector but a researcher interested in understanding something better. When you move from step 2 to step 3, you focus on why that understanding is significant. The significance might at first be just for yourself but you join a community of researchers when you state that significance from your readers&amp;#8217; point of view. In so doing, you create a stronger relationship with readers because you promise something in return for their interest in your report&amp;#8212;a deeper understanding of something that matters to them. At that point, you have posed a problem that they recognize needs a solution.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac537</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the differen 2</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the difference between pure research and applied research?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>We call research pure when the solution to a problem does not bear on any practical situation in the world, but only improves the understanding of a community of researchers. When the solution of a research problem does have practical consequences, we call the research applied. You can tell whether research is pure or applied by looking at the last of the three steps defining your project.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>We call research pure when the solution to a problem does not bear on any practical situation in the world, but only improves the understanding of a community of researchers. When the solution of a research problem does have practical consequences, we call the research applied. You can tell whether research is pure or applied by looking at the last of the three steps defining your project.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>How should you find</text>
+    </name>
+    <questiontext format="html">
+      <text>How should you find a good research problem?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ask for help</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>look for problems as your read</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>look at your own conclusion</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>all of the above</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is the correct</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the correct relationship between a practical and research problem?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>practical problem, defines, research question, motivates, research problem, helps to solve, research answer, leads to a, practical problem</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>practical problem, motives, research question, defines, research problem, leads to, research answer, helps to solve, a practical problem</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>research problem, motives, research question, defines, practical problem, leads to, research answer, helps to solve, research problem</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>research problem, defines, research question, motives, practical problem, helps to solve, research answer, leads to, research problem</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac539</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How can novice resea</text>
+    </name>
+    <questiontext format="html">
+      <text>How can novice researchers manage inexperience?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Answers will vary; however, students should mention it is important to set realistic goals, know that uncertainty and anxiety are natural and inevitable, get control over your topic by writing about it along the way, count on your teachers to understand your struggles, and lastly, realize this is all a learning experience.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Answers will vary; however, students should mention it is important to set realistic goals, know that uncertainty and anxiety are natural and inevitable, get control over your topic by writing about it along the way, count on your teachers to understand your struggles, and lastly, realize this is all a learning experience.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Provide an example o</text>
+    </name>
+    <questiontext format="html">
+      <text>Provide an example of a practical problem, which can motivate a research question.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Student answers will vary; however, the practical problem must motivate a research question.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Student answers will vary; however, the practical problem must motivate a research question.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Select the correct o</text>
+    </name>
+    <questiontext format="html">
+      <text>Select the correct order for connecting your research problem to practical consequences.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>topic, conceptual significance, conceptual question, potential practical application</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>topic, conceptual question, conceptual significance, potential practical application</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>topic, conceptual question, potential practical application, conceptual significance</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>topic, conceptual significance, potential practical application, conceptual question</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac53b</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How do you evaluate</text>
+    </name>
+    <questiontext format="html">
+      <text>How do you evaluate a sources reliability?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1. Is the source published or posted online by a reputable press 2. Was the book or article peer-reviewed 3. Is the author a reputable scholar 4. If the source is available only online, is it sponsored by a reputable organization 5. Is the source current 6. If the source is a book, does it have a notes and a bibliography 7. If the source is a Web site, does it include bibliographical data 8. If the source is Web site, does it approach its topic judiciously 9. If the source is a book, has it been well-reviewed 10. Has the source been frequently cited by others</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>1. Is the source published or posted online by a reputable press 2. Was the book or article peer-reviewed 3. Is the author a reputable scholar 4. If the source is available only online, is it sponsored by a reputable organization 5. Is the source current 6. If the source is a book, does it have a notes and a bibliography 7. If the source is a Web site, does it include bibliographical data 8. If the source is Web site, does it approach its topic judiciously 9. If the source is a book, has it been well-reviewed 10. Has the source been frequently cited by others</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How do you evaluate 2</text>
+    </name>
+    <questiontext format="html">
+      <text>How do you evaluate a sources relevance?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is a book do the following: skim its index for your key words, and then skim the pages on which those words occur. Skim the first and last paragraphs in chapters that use a lot of your key words. Skim prologues, introductions, summary chapters, and so on. Skim the last chapter, especially the first and last two or three pages. If the source is a collection of articles, skim the editor&amp;rsquo;s introduction. Check the bibliography for titles relevant to your topic. &lt;/span&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is an article, do the following: read the abstract, if it has one. Skim the introduction and conclusion, or if they are not marked off by headings, skim the first six or seven paragraphs and the last four of five. Skim for section headings, and read the first and last paragraphs of those sections. Check the bibliography for titles relevant to your topic. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is online, do the following: if it looks like a printed article, follow the steps for a journal article. Skim sections labeled &amp;ldquo;introduction,&amp;rdquo; &amp;ldquo;overview,&amp;rdquo; &amp;ldquo;summary,&amp;rdquo; or the like, if there are none, look for a link labeled &amp;ldquo;about the site&amp;rdquo; or something similar. If the site has a link labeled &amp;ldquo;site map&amp;rdquo; or &amp;ldquo;index,&amp;rdquo; check it for your key words and skim the referenced pages. If the site has a &amp;ldquo;search&amp;rdquo; resource, type in your key words.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is a book do the following: skim its index for your key words, and then skim the pages on which those words occur. Skim the first and last paragraphs in chapters that use a lot of your key words. Skim prologues, introductions, summary chapters, and so on. Skim the last chapter, especially the first and last two or three pages. If the source is a collection of articles, skim the editor&amp;rsquo;s introduction. Check the bibliography for titles relevant to your topic. &lt;/span&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is an article, do the following: read the abstract, if it has one. Skim the introduction and conclusion, or if they are not marked off by headings, skim the first six or seven paragraphs and the last four of five. Skim for section headings, and read the first and last paragraphs of those sections. Check the bibliography for titles relevant to your topic. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%; font-family: Verdana, sans-serif;"&gt;If your source is online, do the following: if it looks like a printed article, follow the steps for a journal article. Skim sections labeled &amp;ldquo;introduction,&amp;rdquo; &amp;ldquo;overview,&amp;rdquo; &amp;ldquo;summary,&amp;rdquo; or the like, if there are none, look for a link labeled &amp;ldquo;about the site&amp;rdquo; or something similar. If the site has a link labeled &amp;ldquo;site map&amp;rdquo; or &amp;ldquo;index,&amp;rdquo; check it for your key words and skim the referenced pages. If the site has a &amp;ldquo;search&amp;rdquo; resource, type in your key words.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How many kinds of so</text>
+    </name>
+    <questiontext format="html">
+      <text>How many kinds of sources can a writer utilize? What are the names of each source? Define each of them.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>There are three kinds of sources - primary, secondary, and tertiary sources. Primary sources provide the raw data that you use first to test your working hypothesis and then as evidence to support your claim. Secondary sources are research reports that use primary data to solve research problems, written for scholarly and professional audiences. Tertiary sources are books and articles that synthesize and report on secondary sources for general readers, such as textbooks, articles in encyclopedias and mass-circulation publications like Psychology Today, and what stand search engines turn up first on the Web.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>There are three kinds of sources - primary, secondary, and tertiary sources. Primary sources provide the raw data that you use first to test your working hypothesis and then as evidence to support your claim. Secondary sources are research reports that use primary data to solve research problems, written for scholarly and professional audiences. Tertiary sources are books and articles that synthesize and report on secondary sources for general readers, such as textbooks, articles in encyclopedias and mass-circulation publications like Psychology Today, and what stand search engines turn up first on the Web.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac53d</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How can you use seco</text>
+    </name>
+    <questiontext format="html">
+      <text>How can you use secondary sources to plan your argument?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1) reading secondary sources for data to use as evidence, 2) reading secondary sources for claims to use as support, 3) reading secondary sources for models of argument and analysis, 4) reading secondary sources to define your problem, 6) reading secondary sources for arguments to respond to.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>1) reading secondary sources for data to use as evidence, 2) reading secondary sources for claims to use as support, 3) reading secondary sources for models of argument and analysis, 4) reading secondary sources to define your problem, 6) reading secondary sources for arguments to respond to.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What does it mean to</text>
+    </name>
+    <questiontext format="html">
+      <text>What does it mean to record complete bibliographical data?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Recording bibliographical data not only records what you read, but it also gives credit to your sources and helps readers find them, should they want to check for themselves. Different fields follow different styles for citing their sources; however, all require the following for books: author, title (including subtitle), editor(s) ad translator(s) (if any), edition, volume, place published (the first if more than one is listed), publisher, date published, pages of articles or chapters consulted. For journals record, the author (including subtitle) of article, title of journal, volume and issue number, date, page numbers of article. For online sources, record as much as you can, but it should also include the URL, date of access, Webmaster (if identified), and the name of the database (if any)</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Recording bibliographical data not only records what you read, but it also gives credit to your sources and helps readers find them, should they want to check for themselves. Different fields follow different styles for citing their sources; however, all require the following for books: author, title (including subtitle), editor(s) ad translator(s) (if any), edition, volume, place published (the first if more than one is listed), publisher, date published, pages of articles or chapters consulted. For journals record, the author (including subtitle) of article, title of journal, volume and issue number, date, page numbers of article. For online sources, record as much as you can, but it should also include the URL, date of access, Webmaster (if identified), and the name of the database (if any)</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the writing</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the writing plans are flawed?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Organize your report as a narrative of your thinking</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Assemble your report as patchwork of your sources</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Map your report directly on the language of your assignment</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>all of the above</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac53f</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How can you use seco 2</text>
+    </name>
+    <questiontext format="html">
+      <text>How can you use secondary sources to find a problem?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>You can look for a creative agreement (offer additional support, confirm unsupported claims, apply a claim more widely), and you can look for a creative disagreement (contradictions of kind, part-whole contradictions, developmental or historical contradictions, external cause-effect contradictions, contradictions of perspective).</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>You can look for a creative agreement (offer additional support, confirm unsupported claims, apply a claim more widely), and you can look for a creative disagreement (contradictions of kind, part-whole contradictions, developmental or historical contradictions, external cause-effect contradictions, contradictions of perspective).</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How should you plan</text>
+    </name>
+    <questiontext format="html">
+      <text>How should you plan the body your report?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1) sketch the background and define terms, 2) create a page for each major section of your report, 3) find a suitable order (part-by-part, chronological, short to long, simple to complex, more familiar to less familiar, less contestable to more contestable, more important to less important, earlier understanding to prepare for later understanding, general analysis followed by specific applications)</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>1) sketch the background and define terms, 2) create a page for each major section of your report, 3) find a suitable order (part-by-part, chronological, short to long, simple to complex, more familiar to less familiar, less contestable to more contestable, more important to less important, earlier understanding to prepare for later understanding, general analysis followed by specific applications)</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Who should you consu</text>
+    </name>
+    <questiontext format="html">
+      <text>Who should you consult when using people as sources of data?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>One should consult the Human Subjects Committee that every college or university has. This committee reviews all research directly or indirectly involving people, whether done by students or professional researchers. Its aim is to ensure that researchers follow the maxim that should govern research as it does medicine: Do no harm. Consult with that committee if you use people as sources of data, whether by interviewing, surveying, perhaps even just observing them. Jumping through these hoops may feel extreme, but if you don&amp;#8217;t, you could harm those who help you and may even damage your institution.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>One should consult the Human Subjects Committee that every college or university has. This committee reviews all research directly or indirectly involving people, whether done by students or professional researchers. Its aim is to ensure that researchers follow the maxim that should govern research as it does medicine: Do no harm. Consult with that committee if you use people as sources of data, whether by interviewing, surveying, perhaps even just observing them. Jumping through these hoops may feel extreme, but if you don&amp;#8217;t, you could harm those who help you and may even damage your institution.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac541</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Provide an example o 2</text>
+    </name>
+    <questiontext format="html">
+      <text>Provide an example of a well-developed body paragraph regarding a topic of choice, with appropriate citations. Citation style may either be APA, MLA, or Chicago style. Integrate at least two different sources.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Student answers will vary; however, citations must be integrated appropriately.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Student answers will vary; however, citations must be integrated appropriately.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is inadvertent</text>
+    </name>
+    <questiontext format="html">
+      <text>What is inadvertent plagiarism? What are common mistakes students make, which results in being charged with plagiarism?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Inadvertent plagiarism implies you lead your readers to think that you&amp;#8217;re trying to pass off as your own, the work of another writer. Do that and you risk an accusation of plagiarism, a charge that, if sustained, could mean a failing grade or even expulsion. Many students don&amp;#8217;t realize when they risk being charged with plagiarism because they are careless or misinformed. You run that risk when you do any of the following. One, quote, paraphrase, or summarize a source but fail to cite it. Two, you use ideas or methods from a source but fail to cite it. Three, you use the exact words of a source and you do cite it, but you fail to put those words in quotation marks or in a block quotation. Lastly, you paraphrase a source and cite it, but you use words so similar to those of the source that anyone can see that as you paraphrased, you followed the source word by word.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Inadvertent plagiarism implies you lead your readers to think that you&amp;#8217;re trying to pass off as your own, the work of another writer. Do that and you risk an accusation of plagiarism, a charge that, if sustained, could mean a failing grade or even expulsion. Many students don&amp;#8217;t realize when they risk being charged with plagiarism because they are careless or misinformed. You run that risk when you do any of the following. One, quote, paraphrase, or summarize a source but fail to cite it. Two, you use ideas or methods from a source but fail to cite it. Three, you use the exact words of a source and you do cite it, but you fail to put those words in quotation marks or in a block quotation. Lastly, you paraphrase a source and cite it, but you use words so similar to those of the source that anyone can see that as you paraphrased, you followed the source word by word.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Why should a writer</text>
+    </name>
+    <questiontext format="html">
+      <text>Why should a writer quote, paraphrase, and summarize appropriately?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Different fields use each differently. For examples, researchers in the humanities quote more than social and natural scientists, who typically paraphrase and summarize. However, there are some principles to follow. One must summarize when details are irrelevant or a source isn&amp;#8217;t important enough to warrant much space. One must paraphrase when you can state what a source says more clearly, or concisely or when your argument depends on the details in a source but not on its specific words.  There are several reasons to use quotes. First, the words themselves are evidence that backs up your reasons. Second, the words are from an authority who backs up your claims. Third, the words are strikingly original or express your key concepts so compelling that the quotations can frame an extended discussion. Lastly, a passage states a view that you disagree with, and to be fair you want to state it exactly.</text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Different fields use each differently. For examples, researchers in the humanities quote more than social and natural scientists, who typically paraphrase and summarize. However, there are some principles to follow. One must summarize when details are irrelevant or a source isn&amp;#8217;t important enough to warrant much space. One must paraphrase when you can state what a source says more clearly, or concisely or when your argument depends on the details in a source but not on its specific words.  There are several reasons to use quotes. First, the words themselves are evidence that backs up your reasons. Second, the words are from an authority who backs up your claims. Third, the words are strikingly original or express your key concepts so compelling that the quotations can frame an extended discussion. Lastly, a passage states a view that you disagree with, and to be fair you want to state it exactly.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac543</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How can researchers</text>
+    </name>
+    <questiontext format="html">
+      <text>How can researchers work through procrastination and writer&amp;#8217;s block?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1) divide the process into small tasks, then focus on one step at a time, 2) create a routine that sets goals you can meet, then use devices such as a progress chart or regular meetings with a writing partner, 3) focus on writing informally to get thoughts on paper, then focus on perfecting your writing last.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>1) divide the process into small tasks, then focus on one step at a time, 2) create a routine that sets goals you can meet, then use devices such as a progress chart or regular meetings with a writing partner, 3) focus on writing informally to get thoughts on paper, then focus on perfecting your writing last.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What are the four co</text>
+    </name>
+    <questiontext format="html">
+      <text>What are the four common citation styles, and which citation pattern do they fall under? Provide examples of fields, which utilize each.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>For academic research, there are two basic patterns, each with two common versions. The two basic patterns are author-title, and author-date. Within author-title styles, Chicago and MLA are used. For author-date styles, a different style/version of Chicago is utilized, along with APA. Author-title citation patterns are is common in the humanities, and author-date citation patterns are used in the natural sciences and most of the social sciences, because in those rapidly changing fields, readers to know quickly how old a source is. They can spot dates more easily when they come at the beginning of a citation.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>For academic research, there are two basic patterns, each with two common versions. The two basic patterns are author-title, and author-date. Within author-title styles, Chicago and MLA are used. For author-date styles, a different style/version of Chicago is utilized, along with APA. Author-title citation patterns are is common in the humanities, and author-date citation patterns are used in the natural sciences and most of the social sciences, because in those rapidly changing fields, readers to know quickly how old a source is. They can spot dates more easily when they come at the beginning of a citation.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which statement does</text>
+    </name>
+    <questiontext format="html">
+      <text>Which statement does not exemplify the social importance of citing sources?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>citations benefit you</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>citations make you relevant</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>citations help your readers</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>citations honor your sources</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac545</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>How do citations hel</text>
+    </name>
+    <questiontext format="html">
+      <text>How do citations help your readers?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Readers use citations before, while, and after they read your report. Before, many experienced readers will preview your report by skimming your list of sources to see whose work you read and whose you didn&amp;#8217;t. as they read, readers use citations to decide how much they can trust the reliability, currency, and completeness of you evidence. Finally, just as you depended on sources to start you bibliographical trail, so will some readers depend on your list to start theirs.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Readers use citations before, while, and after they read your report. Before, many experienced readers will preview your report by skimming your list of sources to see whose work you read and whose you didn&amp;#8217;t. as they read, readers use citations to decide how much they can trust the reliability, currency, and completeness of you evidence. Finally, just as you depended on sources to start you bibliographical trail, so will some readers depend on your list to start theirs.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What information mus</text>
+    </name>
+    <questiontext format="html">
+      <text>What information must you always cite?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>You must cite a source every time you use its words, even if you only paraphrase or summarize them. If your quotations, paraphrase, or summaries come from different pages of your sources, cite each one individually. If a paraphrase or summary extends over several paragraphs, cite it only once at the end.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>You must cite a source every time you use its words, even if you only paraphrase or summarize them. If your quotations, paraphrase, or summaries come from different pages of your sources, cite each one individually. If a paraphrase or summary extends over several paragraphs, cite it only once at the end.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What formatting styl</text>
+    </name>
+    <questiontext format="html">
+      <text>What formatting style does the following reference have: &lt;br /&gt;
+&lt;p style="margin: 0in 0in 0.0001pt 0.5in; text-indent: -0.5in; line-height: 150%;"&gt;&lt;span style="line-height: 150%;"&gt;Krashen, S. (1982). &lt;em&gt;Principles and Practice in Second Language Acquisition&lt;/em&gt;. Oxford: Pergamon.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>MLA</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>APA</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Chicago</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>AMA</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac547</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Provide an example o 3</text>
+    </name>
+    <questiontext format="html">
+      <text>Provide an example of an introductory paragraph regarding a topic of choice. The paragraph must demonstrate the common structure of an introductory paragraph.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Student answers will vary; however, the paragraph must demonstrate the common structure of an introductory paragraph. The common structure includes three elements: 1) a contextualizing background, 2) statement of the problem, 3) a response to the problem.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Student answers will vary; however, the paragraph must demonstrate the common structure of an introductory paragraph. The common structure includes three elements: 1) a contextualizing background, 2) statement of the problem, 3) a response to the problem.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What does it mean to 2</text>
+    </name>
+    <questiontext format="html">
+      <text>What does it mean to think like a reader when revising your work?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Readers do not read word by word, or sentence by sentence. They want to begin with a sense of the whole, its structure, and most important, why they should read your report in the first place. Then they use that sense of the whole and its aims to interpret its parts. It thus makes sense to start revising your overall organization, then its parts, then the clarity of your sentences, and, last, matters of spelling and punctuation.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Readers do not read word by word, or sentence by sentence. They want to begin with a sense of the whole, its structure, and most important, why they should read your report in the first place. Then they use that sense of the whole and its aims to interpret its parts. It thus makes sense to start revising your overall organization, then its parts, then the clarity of your sentences, and, last, matters of spelling and punctuation.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What is the common s 2</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the common structure of an introduction? What is the common structure of a conclusion? What is the absolute last thing a writer must write?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>The common structure of introductory paragraphs consists of three elements - one, a contextualizing background, two, statement of the problem, and three, and a response to the problem. A conclusion paragraph contains the same three elements; however, in reverse. The last thing a writer must write is the title of the research report.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>The common structure of introductory paragraphs consists of three elements - one, a contextualizing background, two, statement of the problem, and three, and a response to the problem. A conclusion paragraph contains the same three elements; however, in reverse. The last thing a writer must write is the title of the research report.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac548</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>Provide an example o 4</text>
+    </name>
+    <questiontext format="html">
+      <text>Provide an example of a conclusion paragraph regarding a topic of choice. The paragraph must demonstrate the common structure of a conclusion paragraph.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Student answers will vary; however, the paragraph must demonstrate the common structure of a conclusion paragraph. The common structure includes the same three elements of an introductory paragraph, but in reverse. The student must start with a main point, add a new significance or application, and finally, call for more research (if possible).</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>Student answers will vary; however, the paragraph must demonstrate the common structure of a conclusion paragraph. The common structure includes the same three elements of an introductory paragraph, but in reverse. The student must start with a main point, add a new significance or application, and finally, call for more research (if possible).</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What are the four pr</text>
+    </name>
+    <questiontext format="html">
+      <text>What are the four principles of clear writing? Why is it important to integrate these principles?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>The four principles are distinguishing impression from their causes, subjects and characters, old before new and complexity last. These principles help make prose as readable as possible. Readers will accept your claims only if they understand your argument; therefore, being clear and direct is pertinent.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>The four principles are distinguishing impression from their causes, subjects and characters, old before new and complexity last. These principles help make prose as readable as possible. Readers will accept your claims only if they understand your argument; therefore, being clear and direct is pertinent.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What visual represen</text>
+    </name>
+    <questiontext format="html">
+      <text>What visual representation should you use when you want to compare the values of one variable, divided into two subsets, across a series of cases?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>grouped or split bar chart</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>histogram</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>stacked bar chart</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>bar chart</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="category">
+    <category>
+      <text>$course$/top/Posttest/random block 560ac54a</text>
+    </category>
+    <info format="html">
+      <text>Created by Respondus</text>
+    </info>
+    <idnumber/>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What information doe</text>
+    </name>
+    <questiontext format="html">
+      <text>What information does an abstract contain?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>It should state the research problem, announce key themes, and state the main point or a launching point that anticipates the main point.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>It should state the research problem, announce key themes, and state the main point or a launching point that anticipates the main point.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="essay">
+    <name>
+      <text>What three steps sho</text>
+    </name>
+    <questiontext format="html">
+      <text>What three steps should you take to revise the frame of your report?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1) put an extra space after you introduction and before your conclusion. If your field approves, put headings at those joints so that readers can&amp;#8217;t miss them. 2) state your main point at or close to the end of your introduction. Then compare that point with the one in your conclusion. They should at least not contradict each other. More should they be identical; make the one in your conclusion more specific and contestable, 3) if you point sentence in your introduction is not your main point but a launching point, don&amp;#8217;t use it merely to announce your topic. Revise to make it more specific: add the key concepts that run through your report as themes.</text>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <minwordlimit/>
+    <maxwordlimit/>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist/>
+    <graderinfo format="html">
+      <text>1) put an extra space after you introduction and before your conclusion. If your field approves, put headings at those joints so that readers can&amp;#8217;t miss them. 2) state your main point at or close to the end of your introduction. Then compare that point with the one in your conclusion. They should at least not contradict each other. More should they be identical; make the one in your conclusion more specific and contestable, 3) if you point sentence in your introduction is not your main point but a launching point, don&amp;#8217;t use it merely to announce your topic. Revise to make it more specific: add the key concepts that run through your report as themes.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text/>
+    </responsetemplate>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is the last thi</text>
+    </name>
+    <questiontext format="html">
+      <text>What is the last thing you should write?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>7.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text/>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text/>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text/>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>conclusion</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>references</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>title</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>abstract</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

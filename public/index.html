@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML Modifier</title>
+    <style>
+        #dropZone {
+            width: 300px;
+            height: 150px;
+            border: 5px dashed #ddd;
+            text-align: center;
+            padding: 50px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div id="dropZone">
+    Drag & Drop your XML File Here
+</div>
+
+<script>
+    const dropZone = document.getElementById('dropZone');
+
+    dropZone.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        e.dataTransfer.dropEffect = 'copy';
+    });
+
+    dropZone.addEventListener('drop', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const file = e.dataTransfer.files[0];
+        if (file && file.name.endsWith('.xml')) {
+            const formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            }).then(response => response.json()).then(data => {
+                const downloadLink = document.createElement('a');
+                downloadLink.href = data.filePath;
+                downloadLink.download = 'modified-' + file.name;
+                document.body.appendChild(downloadLink);
+                downloadLink.click();
+                document.body.removeChild(downloadLink);
+            });
+        } else {
+            alert('Please drop an XML file.');
+        }
+    });
+</script>
+
+</body>
+</html>
